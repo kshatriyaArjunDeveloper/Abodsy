@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/averia_serif_libre</item>
+        <item>@font/open_sans</item>
+        <item>@font/roboto_light</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/roboto_slab</item>
+        <item>@font/roboto_slab_bold</item>
+        <item>@font/roboto_slab_light</item>
+        <item>@font/roboto_thin</item>
+        <item>@font/work_sans</item>
+    </array>
+</resources>
